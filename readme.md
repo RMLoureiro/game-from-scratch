@@ -1,1 +1,1 @@
-Test for building a small game from scratch with c including engine
+Test for building a small game from scratch including engine
