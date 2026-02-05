@@ -21,7 +21,7 @@ REM -Zi: Generate debug info
 REM -FC: Full path in diagnostics
 REM -nologo: Suppress compiler banner
 REM -Fe: Specify executable name
-cl -Zi -FC -DUNICODE -D_UNICODE -Fe:main.exe ..\main.cpp user32.lib gdi32.lib
+cl -Zi -FC -Fe:main.exe ..\main.cpp user32.lib gdi32.lib
 
 echo.
 
